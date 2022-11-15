@@ -1,0 +1,11 @@
+{
+  "contact": "DLXXXXXXXXX@AETNA.com",
+  "cost_center": "XXXXX",
+  "data_classification": "xxxxxxxx",
+  "environment": "xxxxxxxxx",
+  "metadata_version": "2",
+  "owner": "xxxxxxxxxxxxxx",
+  "project_type": "api",
+  "source_repo": "aetna-digital-applications/xxxxxxxx",
+  "train": "xxxxxxx"
+}

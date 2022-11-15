@@ -1,0 +1,7 @@
+microservice:
+  name: microservice-name
+  domain: domain-name
+
+
+ownerLabels:
+  pod-owner: team-name

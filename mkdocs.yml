@@ -1,0 +1,8 @@
+site_name: "todayistusday"
+site_description: "this is a test"
+
+nav:
+  - Introduction: backstage-index.md
+
+plugins:
+  - techdocs-core
